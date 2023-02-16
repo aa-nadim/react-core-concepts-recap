@@ -1,4 +1,4 @@
-# React Core Concepts Recap
+# 4. React Core Concepts Recap
 
 1. Recap Create react app,Component, styles, props(46_5-1)
 2. Check out Event listener, useState inside components(46_5-2)
